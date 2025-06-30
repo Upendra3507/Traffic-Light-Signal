@@ -42,7 +42,7 @@ T = 0.693 × (RA + 2RB) × C
 
 ## 🖼 Circuit Diagram
 
-![image alt]()
+![image alt](https://github.com/Upendra3507/Traffic-Light-Signal/blob/bd9e7470b577f90825aabdc992e0cf71224cc643/Circuit.jpg)
 
 ## 🧑‍💻 Author
 
